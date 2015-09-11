@@ -23,9 +23,7 @@ this.Ninja.module('$f', [], function () {
    *        $f();
    * 
    */
-  function t() {
-    return !1;
-  }
+  function t() { return !1; }
   
   /**
    * Revelacao do modulo $f, encapsulando a visibilidade das funcoes
